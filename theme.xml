@@ -150,7 +150,6 @@ img {
 .archive-date {
   opacity: 0.9;
   margin-bottom: 0;
-  font-size: 1.4em;
   line-height: initial;
 }
 
