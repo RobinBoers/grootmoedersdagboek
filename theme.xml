@@ -26,8 +26,8 @@ Created Date   : Thursday, Jan 5, 2023
 
 :root {
   --foreground: #413b36;
-  --background: #fde7c4;
-  --background-content: #f1d3b3;
+  --background: #f1d3b3;
+  --background-content: #f4e7d1;
   --accent: #65647c;
   --handwritten: "Courgette", sans-serif;
   --border-radius: 25px;
