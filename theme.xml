@@ -306,6 +306,25 @@ sub {
               <a expr:href="data:blog.homepageUrl">Dagboek van een Grootmoeder</a>
             </p>
           </b:if>
+
+          <nav class="page-nav">
+            <ul>
+              <li>
+                <a expr:href="data:blog.homepageUrl">
+                  Recent
+                </a>
+              </li>
+              <li>
+                <a href="/p/over-mij.html">Over mij</a>
+              </li>
+              <li>
+                <a href="/p/de-boomkalender.html">De Boomkalender</a>
+              </li>
+              <li>
+                <a href="/p/index.html">Index</a>
+              </li>
+            </ul>
+          </nav>
         </header>
 
         <main class="page-content h-feed" id="content">
@@ -436,6 +455,12 @@ sub {
               <a expr:href="data:blog.homepageUrl">
                 Recent</a>
             </li>
+            <li>
+                <a href="/p/over-mij.html">Over mij</a>
+              </li>
+              <li>
+                <a href="/p/de-boomkalender.html">De Boomkalender</a>
+              </li>
             <li>
               <a href="/p/index.html">Index</a>
             </li>
